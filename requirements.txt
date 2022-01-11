@@ -1,0 +1,4 @@
+streamlit
+numpy == 1.22.0
+opencv == 4.5.5.62
+pillow == 9.0.0
