@@ -1,7 +1,7 @@
 import streamlit as st
 import cv2
 from collections import deque
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
 #from collections import deque
